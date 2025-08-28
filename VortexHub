@@ -1,2 +1,2 @@
 wait("0.2")
-loadstring(game:HttpGet("https://github.com/ksubijunkie/vortexhub/blob/main/07-05-25%20(2).lua"))()
+loadstring(game:HttpGet("https://github.com/ksubijunkie/ksubijunkie1/blob/main/VortexHub"))()
